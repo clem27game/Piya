@@ -49,9 +49,9 @@ Piya est basique et ne gère qu'une petite dizaine de mots clés pour le moment.
 
 🦋 Tout ce que vous dîtes qui n'est lié a aucune règle dans le code de base de données de Piya.🦋 = 100 réponses aléatoirement possibles dans la base de données 🌸🩷
 
-l♥️ien pour parler a Piya :
+♥️Lien pour parler a Piya :
 
-[https://clemylia.codekings.app/piya]]
+https://clemylia.codekings.app/piya
 ----------------------------------------
 Bon tchating !
 
