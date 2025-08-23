@@ -1,4 +1,7 @@
-## 🩷🐱 Piya 🐱🌸
+# 🩷🐱 Piya 🐱🌸
+
+![Piya](http://www.image-heberg.fr/files/17559763872219605815.jpg)
+
 
 **Hey cher utilisateurs** ! ✌️🌷
 
@@ -8,7 +11,7 @@ Je vous présente ***Piya*** , une chatbot neko et serviable crée a la main a b
 
 Piya est basique et ne gère qu'une petite dizaine de mots clés pour le moment. Mais chacun de ses mots clés ont une centaines de réponses possibles qui sont aléatoires lorsque vous lui parlez!
 
-# ♥️ Voici les fonctionnalités Actuelles de Piya ♥️
+## ♥️ Voici les fonctionnalités Actuelles de Piya ♥️
 
 **1) Salutations**
 
