@@ -45,7 +45,13 @@ Piya est basique et ne gère qu'une petite dizaine de mots clés pour le moment.
 
 - 🐉 au revoir --> Piya est capable de vous répondre aléatoirement parmis une base de données de 100 réponses
 
-**6) Réponses par défaut**
+**6) identification chatbot/ia**
+
+- ❤️ es-tu une ia --> Piya peut répondre de pleins de manières différentes a cette question 
+
+- 🟢 chatbot --> Piya vous affirme qu'elle est un chatbot avec pleins de variantes de réponses possibles aléatoires
+
+**7) Réponses par défaut**
 
 🦋 Tout ce que vous dîtes qui n'est lié a aucune règle dans le code de base de données de Piya.🦋 = 100 réponses aléatoirement possibles dans la base de données 🌸🩷
 
