@@ -21,6 +21,8 @@ Piya est basique et ne gère qu'une petite dizaine de mots clés pour le moment.
 
 - 🦞 Coucou --> Piya est capable de vous répondre aléatoirement dans une base de données de 100 réponses différentes pour ce mot clé
 
+- 🔥 Hey --> Piya est capable de vous répondre de différentes manières a ce mot-clé 
+
 **2) États (phrases exactes)**
 
 - 🍣 comment tu vas ? --> Piya est capable de vous répondre aléatoirement parmis une base de données de 100 réponses
